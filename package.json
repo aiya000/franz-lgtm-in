@@ -1,0 +1,23 @@
+{
+  "name": "LGTM.in",
+  "version": "1.0.0",
+  "description": "LGTM.in",
+  "main": "index.js",
+  "author": "aiya000 <aiya000.develop@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://lgtm.in/",
+    "serviceName": "LGTM.in",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
